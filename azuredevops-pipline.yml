@@ -1,0 +1,7 @@
+triiger;
+
+stages
+  job:
+     test
+        user:   scorttg
+        pssword: cbcbcbcbchdfgdf
