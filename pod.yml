@@ -1,9 +1,4 @@
-apiverion: v1
-kind: Pod
+apiverion:
+kind:
 metadata:
-  name: nginx
 spec:
-  containers:
-  - namne:
-    image:
-    port:
